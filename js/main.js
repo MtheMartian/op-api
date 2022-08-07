@@ -1,4 +1,3 @@
-alert('Poop');
 document.querySelector('button').addEventListener('click', getInfo);
 const createText = document.createElement('p');
 const createImg = document.createElement('img');
